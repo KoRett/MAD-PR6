@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PR6</string>
+    <string name="some_text">Some text written here!</string>
+    <string name="welcome">Welcome,  %1$s! Уже %2$d:%3$d.</string>
+</resources>
